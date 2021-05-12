@@ -939,11 +939,11 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#162330"
-        node_selected="#ffebeb"
-        node_active="#ff0015"
-        wire="#12122f"
-        wire_inner="#178f5c"
-        wire_select="#ff0610"
+        node_selected="#5c8cff"
+        node_active="#527ee5"
+        wire="#13123c"
+        wire_inner="#32578f"
+        wire_select="#ff8085"
         selected_text="#7f7070"
         node_backdrop="#131d22ff"
         converter_node="#265ee5"
