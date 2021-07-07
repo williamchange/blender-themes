@@ -443,8 +443,8 @@
             >
             <gradients>
               <ThemeGradientColors
-                background_type="RADIAL"
-                high_gradient="#24242f"
+                background_type="SINGLE_COLOR"
+                high_gradient="#282834"
                 gradient="#000000"
                 >
               </ThemeGradientColors>

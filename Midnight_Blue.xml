@@ -443,8 +443,8 @@
             >
             <gradients>
               <ThemeGradientColors
-                background_type="RADIAL"
-                high_gradient="#161f29"
+                background_type="SINGLE_COLOR"
+                high_gradient="#0b1015"
                 gradient="#000000"
                 >
               </ThemeGradientColors>
@@ -940,9 +940,9 @@
       <ThemeNodeEditor
         grid="#000000"
         node_selected="#5c8cff"
-        node_active="#527ee5"
-        wire="#13123c"
-        wire_inner="#32578f"
+        node_active="#4469be"
+        wire="#0a101a"
+        wire_inner="#324d68"
         wire_select="#ff8085"
         selected_text="#7f7070"
         node_backdrop="#141f2fff"
