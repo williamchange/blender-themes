@@ -62,16 +62,16 @@
         </wcol_tool>
         <wcol_toolbar_item>
           <ThemeWidgetColors
-            outline="#373737"
-            inner="#272727ff"
-            inner_sel="#5680c2ff"
+            outline="#383849"
+            inner="#1a1a22ff"
+            inner_sel="#505068ff"
             item="#e6e6e6cc"
             text="#e6e6e6"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.4"
+            roundness="0.5"
             >
           </ThemeWidgetColors>
         </wcol_toolbar_item>
@@ -227,10 +227,10 @@
         </wcol_menu_back>
         <wcol_pie_menu>
           <ThemeWidgetColors
-            outline="#333333"
-            inner="#212121ef"
-            inner_sel="#515670ff"
-            item="#585858ff"
+            outline="#191d2f"
+            inner="#191d2fff"
+            inner_sel="#484c63ff"
+            item="#4e4058ff"
             text="#d9d9d9"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -464,7 +464,7 @@
     <graph_editor>
       <ThemeGraphEditor
         grid="#1a1a1a"
-        frame_current="#736697"
+        frame_current="#4d55be"
         time_scrub_background="#2d2e3c80"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
@@ -595,7 +595,7 @@
         tweak_duplicate="#d90000"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
-        frame_current="#5680c2"
+        frame_current="#4d55be"
         time_scrub_background="#292929e6"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
@@ -644,8 +644,8 @@
     <dopesheet_editor>
       <ThemeDopeSheet
         grid="#2a2a2a"
-        frame_current="#736697"
-        time_scrub_background="#292929e6"
+        frame_current="#4d55be"
+        time_scrub_background="#2d2e3c80"
         time_marker_line="#0d0d0d60"
         time_marker_line_selected="#ffffff60"
         value_sliders="#000000"
@@ -808,8 +808,8 @@
         text_strip="#824c8f"
         active_strip="#d9d9d9"
         selected_strip="#ff8f0d"
-        frame_current="#736697"
-        time_scrub_background="#292929e6"
+        frame_current="#4d55be"
+        time_scrub_background="#1a1a22ff"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
         keyframe="#ff8500"
@@ -1188,7 +1188,7 @@
         path_keyframe_before="#ffc4c4"
         path_keyframe_after="#c4c4ff"
         frame_current="#5682c2"
-        time_scrub_background="#292929e6"
+        time_scrub_background="#1a1a22ff"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
         strips="#0c0a0a"
@@ -1213,25 +1213,25 @@
             title="#eeeeee"
             text="#a6a6a6"
             text_hi="#ffffff"
-            header="#424242ff"
+            header="#363849ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
-            button="#424242ff"
+            button="#1a1a22ff"
             button_title="#ffffff"
             button_text="#e5e5e5"
             button_text_hi="#ffffff"
             navigation_bar="#00000000"
             execution_buts="#00000000"
-            tab_active="#4b4b4b"
-            tab_inactive="#2b2b2b"
-            tab_back="#232323ff"
-            tab_outline="#232323"
+            tab_active="#353849"
+            tab_inactive="#101015"
+            tab_back="#24242fff"
+            tab_outline="#121a22"
             >
             <panelcolors>
               <ThemePanelColors
-                header="#424242cc"
-                back="#333333b3"
-                sub_back="#0000003e"
+                header="#363849ff"
+                back="#23242fff"
+                sub_back="#23242fff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -1239,7 +1239,7 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#282828"
+            list="#1a1a22"
             list_title="#000000"
             list_text="#000000"
             list_text_hi="#ffffff"
@@ -1350,6 +1350,15 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
+        <space_list>
+          <ThemeSpaceListGeneric
+            list="#1a1a22"
+            list_title="#c3c3c3"
+            list_text="#c3c3c3"
+            list_text_hi="#00ffff"
+            >
+          </ThemeSpaceListGeneric>
+        </space_list>
       </ThemeSpreadsheet>
     </spreadsheet>
     <bone_color_sets>
@@ -1528,12 +1537,49 @@
         >
       </ThemeCollectionColor>
     </collection_color>
+    <strip_color>
+      <ThemeStripColor
+        color="#e2605b"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#f1a355"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#f1dc55"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#7bcc7b"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#5db6ea"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#8d59da"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#c673b8"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#7a5441"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#5f5f5f"
+        >
+      </ThemeStripColor>
+    </strip_color>
   </Theme>
   <ThemeStyle>
     <panel_title>
       <ThemeFontStyle
         points="12"
-        font_kerning_style="FITTED"
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
@@ -1545,7 +1591,6 @@
     <widget_label>
       <ThemeFontStyle
         points="11"
-        font_kerning_style="FITTED"
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
@@ -1557,7 +1602,6 @@
     <widget>
       <ThemeFontStyle
         points="11"
-        font_kerning_style="FITTED"
         shadow="1"
         shadow_offset_x="0"
         shadow_offset_y="-1"
