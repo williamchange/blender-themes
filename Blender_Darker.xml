@@ -79,7 +79,7 @@
           <ThemeWidgetColors
             outline="#1a1a1a"
             inner="#1a1a1aff"
-            inner_sel="#737373e6"
+            inner_sel="#323232e6"
             item="#ffffffff"
             text="#e6e6e6"
             text_sel="#ffffff"
@@ -948,7 +948,7 @@
         node_backdrop="#323232ff"
         converter_node="#386a97"
         color_node="#a58d4c"
-        group_node="#295629ff"
+        group_node="#232f1fff"
         group_socket_node="#000000"
         frame_node="#757575ff"
         matte_node="#975b5b"
@@ -1537,44 +1537,6 @@
         >
       </ThemeCollectionColor>
     </collection_color>
-    <strip_color>
-      <ThemeStripColor
-        color="#e2605b"
-        >
-      </ThemeStripColor>
-      <ThemeStripColor
-        color="#f1a355"
-        >
-      </ThemeStripColor>
-      <ThemeStripColor
-        color="#f1dc55"
-        >
-      </ThemeStripColor>
-      <ThemeStripColor
-        color="#7bcc7b"
-        >
-      </ThemeStripColor>
-      <ThemeStripColor
-        color="#5db6ea"
-        >
-      </ThemeStripColor>
-      <ThemeStripColor
-        color="#8d59da"
-        >
-      </ThemeStripColor>
-      <ThemeStripColor
-        color="#c673b8"
-        >
-      </ThemeStripColor>
-      <ThemeStripColor
-        color="#7a5441"
-        >
-      </ThemeStripColor>
-      <ThemeStripColor
-        color="#5f5f5f"
-        >
-      </ThemeStripColor>
-    </strip_color>
   </Theme>
   <ThemeStyle>
     <panel_title>
