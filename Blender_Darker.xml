@@ -32,12 +32,12 @@
         >
         <wcol_regular>
           <ThemeWidgetColors
-            outline="#262626"
-            inner="#404040ff"
+            outline="#1a1a1a"
+            inner="#0d0d0dff"
             inner_sel="#737373e6"
             item="#3e3e3eff"
             text="#d9d9d9"
-            text_sel="#ffffff"
+            text_sel="#f2f2f2"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="-5"
