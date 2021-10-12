@@ -1,15 +1,21 @@
 # blender-themes
 
-Here's some of my Blender themes for 2.8+
+Blender themes for 2.8+
 
-Everything here is largely a work-in-progress and I might change a lot of colors, but generally they will fit the "theme" as suggested by the file name.
+Colors are subject to change, but generally they will fit the theme as suggested by its name.
+
+## Blender Darker
+[Download](https://raw.githubusercontent.com/williamchange/blender-themes/master/Blender_Darker.xml)
+
+![BlenderDarker](https://user-images.githubusercontent.com/830253/136978576-d1167f85-be60-452e-b92d-be4f371e3497.png)
 
 ## Midnight Blue
 [Download](https://raw.githubusercontent.com/williamchange/blender-themes/master/Midnight_Blue.xml)
 
-![midnight_blue](https://user-images.githubusercontent.com/830253/122678223-2ddecb80-d229-11eb-9bb3-8eb6e8d45be3.png)
+![MidnightBlue](https://user-images.githubusercontent.com/830253/136978101-5d0b26d7-4447-419c-b602-cc9d398b834d.png)
 
 ## Dusk
 [Download](https://raw.githubusercontent.com/williamchange/blender-themes/master/Dusk.xml)
 
-![dusk](https://user-images.githubusercontent.com/830253/122678195-fec85a00-d228-11eb-8772-12a2310602e9.png)
+![Dusk](https://user-images.githubusercontent.com/830253/136978137-c024a723-c99d-43cd-9fd6-d31e1131acf6.png)
+
