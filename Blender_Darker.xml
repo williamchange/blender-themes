@@ -762,7 +762,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#262626"
+            back="#121212"
             title="#eeeeee"
             text="#e6e6e6"
             text_hi="#ffffff"
@@ -906,7 +906,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#262626"
+            back="#121212"
             title="#eeeeee"
             text="#e6e6e6"
             text_hi="#ffffff"
@@ -1011,10 +1011,10 @@
     <outliner>
       <ThemeOutliner
         match="#337f33"
-        selected_highlight="#262626"
-        active="#141414"
-        selected_object="#8c8c8c"
-        active_object="#737373"
+        selected_highlight="#3a445b"
+        active="#0f1319"
+        selected_object="#e96a00"
+        active_object="#ff8f00"
         edited_object="#00806266"
         row_alternate="#ffffff07"
         >
@@ -1069,7 +1069,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#262626"
+            back="#121212"
             title="#ffffff"
             text="#c3c3c3"
             text_hi="#ffffff"
@@ -1209,7 +1209,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#262626"
+            back="#121212"
             title="#eeeeee"
             text="#a6a6a6"
             text_hi="#ffffff"
