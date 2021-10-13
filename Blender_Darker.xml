@@ -49,7 +49,7 @@
           <ThemeWidgetColors
             outline="#262626"
             inner="#414141ff"
-            inner_sel="#737373ff"
+            inner_sel="#3a559aff"
             item="#ffffffff"
             text="#e6e6e6"
             text_sel="#ffffff"
@@ -304,7 +304,7 @@
           <ThemeWidgetColors
             outline="#262626"
             inner="#40404000"
-            inner_sel="#5b5b5bff"
+            inner_sel="#3a559aff"
             item="#b3b3b3ff"
             text="#e6e6e6"
             text_sel="#ffffff"
@@ -1011,9 +1011,9 @@
     <outliner>
       <ThemeOutliner
         match="#337f33"
-        selected_highlight="#3a445b"
-        active="#0f1319"
-        selected_object="#e96a00"
+        selected_highlight="#131f32"
+        active="#090e18"
+        selected_object="#fbfffc"
         active_object="#ff8f00"
         edited_object="#00806266"
         row_alternate="#ffffff07"
