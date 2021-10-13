@@ -34,7 +34,7 @@
           <ThemeWidgetColors
             outline="#1a1a1a"
             inner="#0d0d0dff"
-            inner_sel="#737373e6"
+            inner_sel="#3a559acd"
             item="#3e3e3eff"
             text="#d9d9d9"
             text_sel="#f2f2f2"
@@ -48,7 +48,7 @@
         <wcol_tool>
           <ThemeWidgetColors
             outline="#262626"
-            inner="#404040ff"
+            inner="#414141ff"
             inner_sel="#737373ff"
             item="#ffffffff"
             text="#e6e6e6"
@@ -79,7 +79,7 @@
           <ThemeWidgetColors
             outline="#1a1a1a"
             inner="#1a1a1aff"
-            inner_sel="#323232e6"
+            inner_sel="#3a559acd"
             item="#ffffffff"
             text="#e6e6e6"
             text_sel="#ffffff"
@@ -242,8 +242,8 @@
         </wcol_pie_menu>
         <wcol_tooltip>
           <ThemeWidgetColors
-            outline="#262626"
-            inner="#404040ef"
+            outline="#0c0c0c"
+            inner="#0c0c0cff"
             inner_sel="#737373ef"
             item="#19191aef"
             text="#e6e6e6"
@@ -304,7 +304,7 @@
           <ThemeWidgetColors
             outline="#262626"
             inner="#40404000"
-            inner_sel="#737373ff"
+            inner_sel="#5b5b5bff"
             item="#b3b3b3ff"
             text="#e6e6e6"
             text_sel="#ffffff"
@@ -539,7 +539,7 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#2d64a6"
+        selected_file="#2e64a6"
         row_alternate="#ffffff0b"
         >
         <space>
@@ -941,14 +941,14 @@
         grid="#232323"
         node_selected="#757575"
         node_active="#ffffff"
-        wire="#0d0d0d"
-        wire_inner="#414141"
+        wire="#000000"
+        wire_inner="#828282"
         wire_select="#506db1"
         selected_text="#7f7070"
         node_backdrop="#323232ff"
         converter_node="#386a97"
         color_node="#a58d4c"
-        group_node="#232d22ff"
+        group_node="#232c22ff"
         group_socket_node="#000000"
         frame_node="#757575ff"
         matte_node="#975b5b"
@@ -965,11 +965,11 @@
         pattern_node="#6c696f"
         layout_node="#6c696f"
         geometry_node="#007c64"
-        attribute_node="#3f5980"
+        attribute_node="#182332"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#121212"
+            back="#181818"
             title="#eeeeee"
             text="#e6e6e6"
             text_hi="#ffffff"
@@ -1537,6 +1537,44 @@
         >
       </ThemeCollectionColor>
     </collection_color>
+    <strip_color>
+      <ThemeStripColor
+        color="#e2605b"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#f1a355"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#f1dc55"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#7bcc7b"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#5db6ea"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#8d59da"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#c673b8"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#7a5441"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#5f5f5f"
+        >
+      </ThemeStripColor>
+    </strip_color>
   </Theme>
   <ThemeStyle>
     <panel_title>
