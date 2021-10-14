@@ -950,7 +950,7 @@
         color_node="#a58d4c"
         group_node="#232c22ff"
         group_socket_node="#000000"
-        frame_node="#0d0d0dff"
+        frame_node="#00000080"
         matte_node="#975b5b"
         distor_node="#749797"
         noodle_curving="1"
