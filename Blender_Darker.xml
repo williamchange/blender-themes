@@ -956,7 +956,7 @@
         distor_node="#749797"
         noodle_curving="1"
         grid_levels="0"
-        dash_alpha="0.55"
+        dash_alpha="1"
         input_node="#bf3338"
         output_node="#bf3338"
         filter_node="#584d80"
