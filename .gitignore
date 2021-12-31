@@ -1,8 +1,4 @@
-theme_edit.py
-update_theme.sh
-Blender_Dark_Default.xml
-Theme.xml
-.vscode
-screenshots/
 testing/
+.vscode
 .DS_Store
+*.sh
