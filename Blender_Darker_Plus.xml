@@ -35,7 +35,7 @@
           <ThemeWidgetColors
             outline="#262626"
             inner="#191919ff"
-            inner_sel="#3f3f3fff"
+            inner_sel="#4d4d4dff"
             item="#000000ff"
             text="#d9d9d9"
             text_sel="#ffffff"
@@ -78,9 +78,9 @@
         </wcol_toolbar_item>
         <wcol_radio>
           <ThemeWidgetColors
-            outline="#080808"
-            inner="#262626ff"
-            inner_sel="#333333ff"
+            outline="#070707"
+            inner="#212121ff"
+            inner_sel="#404040ff"
             item="#ffffffff"
             text="#e5e5e5"
             text_sel="#ffffff"
@@ -94,7 +94,7 @@
         <wcol_text>
           <ThemeWidgetColors
             outline="#262626"
-            inner="#404040ff"
+            inner="#454545ff"
             inner_sel="#181818ff"
             item="#191919ff"
             text="#e6e6e6"
@@ -956,7 +956,7 @@
         distor_node="#749797"
         noodle_curving="0"
         grid_levels="0"
-        dash_alpha="0.5"
+        dash_alpha="1"
         input_node="#e64555"
         output_node="#b33641"
         filter_node="#584d80"
