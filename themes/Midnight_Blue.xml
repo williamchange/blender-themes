@@ -138,8 +138,8 @@
         </wcol_toggle>
         <wcol_num>
           <ThemeWidgetColors
-            outline="#0b0e14"
-            inner="#0d1118ff"
+            outline="#10141f"
+            inner="#10141fff"
             inner_sel="#0b0e14ff"
             item="#191919ff"
             text="#e6e6e6"
@@ -316,6 +316,21 @@
             >
           </ThemeWidgetColors>
         </wcol_list_item>
+        <wcol_view_item>
+          <ThemeWidgetColors
+            outline="#2d2d2d"
+            inner="#303030ff"
+            inner_sel="#4772b3ff"
+            item="#4772b3ff"
+            text="#cccccc"
+            text_sel="#ffffff"
+            show_shaded="FALSE"
+            shadetop="0"
+            shadedown="0"
+            roundness="0.4"
+            >
+          </ThemeWidgetColors>
+        </wcol_view_item>
         <wcol_state>
           <ThemeWidgetStateColors
             inner_anim="#53992e"
@@ -851,6 +866,15 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
+        <space_list>
+          <ThemeSpaceListGeneric
+            list="#181818"
+            list_title="#ffffff"
+            list_text="#ffffff"
+            list_text_hi="#ffffff"
+            >
+          </ThemeSpaceListGeneric>
+        </space_list>
       </ThemeSequenceEditor>
     </sequence_editor>
     <properties>
@@ -942,11 +966,11 @@
         grid="#232323"
         node_selected="#5c8cff"
         node_active="#4469be"
-        wire="#0a101a"
+        wire="#0a101aff"
         wire_inner="#324d68"
         wire_select="#ff8085b3"
         selected_text="#7f7070"
-        node_backdrop="#141f2fe6"
+        node_backdrop="#1c293cc4"
         converter_node="#265ee5"
         color_node="#dfa812"
         group_node="#203c24"
@@ -954,13 +978,13 @@
         frame_node="#1a1a1acc"
         matte_node="#975b5b"
         distor_node="#749797"
-        noodle_curving="0"
+        noodle_curving="3"
         grid_levels="0"
         dash_alpha="1"
         input_node="#ff284d"
         output_node="#b3233c"
         filter_node="#584d80"
-        vector_node="#8444c7"
+        vector_node="#7c40ba"
         texture_node="#f76d30"
         shader_node="#3bb976"
         script_node="#084d4d"
