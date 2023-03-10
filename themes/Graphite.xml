@@ -274,9 +274,9 @@
         <wcol_scroll>
           <ThemeWidgetColors
             outline="#3d3d3d"
-            inner="#22222200"
-            inner_sel="#ffffffff"
-            item="#00000000"
+            inner="#00000000"
+            inner_sel="#9eacffff"
+            item="#00000080"
             text="#e6e6e6"
             text_sel="#ffffff"
             show_shaded="FALSE"
