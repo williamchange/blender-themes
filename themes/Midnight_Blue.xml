@@ -370,6 +370,7 @@
         clipping_border_3d="#313131ff"
         wire="#000000"
         wire_edit="#000000"
+        edge_width="1"
         gp_vertex="#000000"
         gp_vertex_select="#ff8500"
         gp_vertex_size="3"
@@ -399,6 +400,7 @@
         face_dot="#ff8a00"
         facedot_size="3"
         freestyle_face_mark="#7fff7f4d"
+        face_retopology="#50c8ff0f"
         face_back="#ff0000b3"
         face_front="#0000ffb3"
         nurb_uline="#909000"
@@ -429,6 +431,7 @@
         bone_locked_weight="#ff000080"
         bundle_solid="#c8c8c8"
         camera_path="#000000"
+        camera_passepartout="#000000"
         skin_root="#b44d4d"
         view_overlay="#000000"
         transform="#ffffff"
@@ -690,6 +693,7 @@
         summary="#4d250066"
         preview_range="#a14d0066"
         interpolation_line="#94e575cc"
+        simulated_frames="#721e65ff"
         >
         <space>
           <ThemeSpaceGeneric
@@ -746,10 +750,12 @@
         face_dot="#ff8500"
         facedot_size="3"
         freestyle_face_mark="#7fff7f33"
+        face_retopology="#00000000"
         face_back="#00000000"
         face_front="#00000000"
         editmesh_active="#ffffff40"
         wire_edit="#c0c0c0"
+        edge_width="1"
         edge_select="#ff8500"
         scope_back="#727272ff"
         preview_stitch_face="#7f7f0033"
@@ -992,6 +998,7 @@
         layout_node="#6c696f"
         geometry_node="#00d7a4"
         attribute_node="#3f5980"
+        simulation_zone="#0c141ac4"
         >
         <space>
           <ThemeSpaceGeneric
