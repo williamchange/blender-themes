@@ -351,7 +351,7 @@
     </user_interface>
     <view_3d>
       <ThemeView3D
-        grid="#40424c1a"
+        grid="#b6b9d81a"
         clipping_border_3d="#313131ff"
         wire="#000000"
         wire_edit="#000000"
@@ -361,7 +361,7 @@
         gp_vertex_size="3"
         text_grease_pencil="#b5e61d"
         object_selected="#ed5700"
-        object_active="#ffa028"
+        object_active="#ffc670"
         text_keyframe="#ddd700"
         camera="#000000"
         empty="#000000"
@@ -818,9 +818,9 @@
         effect_strip="#514a73"
         transition_strip="#50458f"
         color_strip="#8f8f8f"
-        meta_strip="#5b4d91"
+        meta_strip="#6b6591"
         mask_strip="#666666"
-        text_strip="#824c8f"
+        text_strip="#805a8f"
         active_strip="#d9d9d9"
         selected_strip="#ff8f0d"
         frame_current="#667889"
@@ -837,7 +837,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#3d3f48"
+            back="#33333b"
             title="#eeeeee"
             text="#a6a6a6"
             text_hi="#ffffff"
