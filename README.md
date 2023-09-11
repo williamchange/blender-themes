@@ -1,8 +1,6 @@
 # blender-themes
 
-Blender themes for 2.8+
-
-Colors may change anytime, but generally they will fit the theme.
+Some of my Blender themes (2.8+)
 
 ## Blender Darker Plus
 
