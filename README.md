@@ -1,19 +1,23 @@
 # blender-themes
 
-Some of my Blender themes (2.8+)
+Blender themes (2.8+)
 
-## Blender Darker Plus
+## Slate
 
-![blender_darker_plus](https://user-images.githubusercontent.com/830253/223917265-800f9d10-d03e-47c0-9f7e-a8129b70b9ee.png)
-
-## Blender Darker
-
-![blender_darker](https://user-images.githubusercontent.com/830253/223917249-c03f8cfb-1999-495d-9ee0-62aa10f48a61.png)
-
-## Midnight Blue
-
-![midnight_blue](https://user-images.githubusercontent.com/830253/223917231-8d343a83-533c-4a2e-b9d3-22c986c9df02.png)
+![slate](https://github.com/williamchange/blender-themes/assets/830253/4e865b00-3421-4fe2-8ca1-c88785871e25)
 
 ## Dusk
 
-![dusk](https://user-images.githubusercontent.com/830253/223916900-c08e0363-0c7b-4374-941f-ae6e44077e4c.png)
+![dusk](https://github.com/williamchange/blender-themes/assets/830253/0b43c459-975f-4592-b72c-997dc96698cb)
+
+## Midnight Blue
+
+![midnightblue](https://github.com/williamchange/blender-themes/assets/830253/e678d5c8-9b93-426d-a8d3-11ddd1932e84)
+
+## Blender Darker
+
+![darker](https://github.com/williamchange/blender-themes/assets/830253/0e1a354a-a451-4699-8d7e-59b5ec02bda1)
+
+## Blender Darker Plus
+
+![darkerplus](https://github.com/williamchange/blender-themes/assets/830253/c02e9c2a-c283-49a1-9608-f5c921f8e3a9)
