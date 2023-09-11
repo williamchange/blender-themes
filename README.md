@@ -19,7 +19,3 @@ Colors may change anytime, but generally they will fit the theme.
 ## Dusk
 
 ![dusk](https://user-images.githubusercontent.com/830253/223916900-c08e0363-0c7b-4374-941f-ae6e44077e4c.png)
-
-## Graphite
-
-![graphite](https://user-images.githubusercontent.com/830253/223916842-520d53c1-322a-4623-bf34-807ce6edc1c4.png)
