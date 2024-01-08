@@ -10,20 +10,20 @@ Blender themes (2.8+)
 
 ## Slate
 
-![slate](https://github.com/williamchange/blender-themes/assets/830253/4e865b00-3421-4fe2-8ca1-c88785871e25)
+![slate](https://github.com/williamchange/blender-themes/assets/830253/5be81a48-16d4-4f93-b6d4-bf144466e5cc)
 
 ## Dusk
 
-![dusk](https://github.com/williamchange/blender-themes/assets/830253/0b43c459-975f-4592-b72c-997dc96698cb)
+![dusk](https://github.com/williamchange/blender-themes/assets/830253/62d327cd-c40e-4d37-94c7-846a7a62fde0)
 
 ## Midnight Blue
 
-![midnightblue](https://github.com/williamchange/blender-themes/assets/830253/e678d5c8-9b93-426d-a8d3-11ddd1932e84)
+![midnight_blue](https://github.com/williamchange/blender-themes/assets/830253/09779d4b-0fe0-4f55-9e3e-98b24c6ae174)
 
 ## Blender Darker
 
-![darker](https://github.com/williamchange/blender-themes/assets/830253/0e1a354a-a451-4699-8d7e-59b5ec02bda1)
+![blender_darker](https://github.com/williamchange/blender-themes/assets/830253/8d3122e3-e674-407d-ba0d-62b3d92beaea)
 
 ## Blender Darker Plus
 
-![darkerplus](https://github.com/williamchange/blender-themes/assets/830253/c02e9c2a-c283-49a1-9608-f5c921f8e3a9)
+![blender_darker_plus](https://github.com/williamchange/blender-themes/assets/830253/5cc384c3-da0f-4f16-90a6-17a2a02285b7)
