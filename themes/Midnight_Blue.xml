@@ -374,6 +374,7 @@
         vertex_bevel="#00a5ff"
         vertex_unreferenced="#000000"
         edge_select="#ffa000"
+        edge_mode_select="#ffd800"
         edge_seam="#db2512"
         edge_sharp="#00ffff"
         edge_crease="#cc0099"
@@ -382,6 +383,7 @@
         freestyle_edge_mark="#7fff7f"
         face="#ffffff02"
         face_select="#ffa5522e"
+        face_mode_select="#ffb70033"
         face_dot="#ff8a00"
         facedot_size="3"
         freestyle_face_mark="#7fff7f4d"
@@ -621,7 +623,7 @@
             header="#121a22ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
-            button="#424242ff"
+            button="#121a22ff"
             button_title="#ffffff"
             button_text="#e5e5e5"
             button_text_hi="#ffffff"
@@ -740,6 +742,7 @@
         vertex_unreferenced="#000000"
         face="#ffffff0a"
         face_select="#ff85003c"
+        face_mode_select="#00000000"
         face_dot="#ff8500"
         facedot_size="3"
         freestyle_face_mark="#7fff7f33"
@@ -825,7 +828,7 @@
         active_strip="#d9d9d9"
         selected_strip="#ff8f0d"
         frame_current="#2f5881"
-        time_scrub_background="#222a35ff"
+        time_scrub_background="#363e4fff"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
         keyframe="#ff8500"
@@ -875,7 +878,7 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#181818"
+            list="#101a22"
             list_title="#ffffff"
             list_text="#ffffff"
             list_text_hi="#ffffff"
@@ -1615,6 +1618,7 @@
     <panel_title>
       <ThemeFontStyle
         points="12"
+        character_weight="400"
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
@@ -1626,6 +1630,7 @@
     <widget_label>
       <ThemeFontStyle
         points="11"
+        character_weight="400"
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
@@ -1637,6 +1642,7 @@
     <widget>
       <ThemeFontStyle
         points="11"
+        character_weight="400"
         shadow="1"
         shadow_offset_x="0"
         shadow_offset_y="-1"
