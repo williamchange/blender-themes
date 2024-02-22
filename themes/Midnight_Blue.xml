@@ -812,22 +812,22 @@
     </image_editor>
     <sequence_editor>
       <ThemeSequenceEditor
-        grid="#404040"
+        grid="#0a0e19"
         window_sliders="#a0a0a0"
-        movie_strip="#4d6890"
+        movie_strip="#475383"
         movieclip_strip="#8f4c4c"
-        image_strip="#8f744b"
+        image_strip="#9c6449"
         scene_strip="#828f50"
         audio_strip="#4c8f8f"
-        effect_strip="#514a73"
+        effect_strip="#4d4c80"
         transition_strip="#50458f"
-        color_strip="#8f8f8f"
+        color_strip="#d8d8d8"
         meta_strip="#5b4d91"
         mask_strip="#666666"
-        text_strip="#824c8f"
+        text_strip="#b67789"
         active_strip="#d9d9d9"
-        selected_strip="#ff8f0d"
-        frame_current="#2f5881"
+        selected_strip="#f2f2f2"
+        frame_current="#506db6"
         time_scrub_background="#363e4fff"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
@@ -844,7 +844,7 @@
         metadatabg="#000000"
         metadatatext="#ffffff"
         preview_range="#a14d0066"
-        row_alternate="#ffffff0d"
+        row_alternate="#b0c5ff1b"
         >
         <space>
           <ThemeSpaceGeneric
