@@ -926,8 +926,8 @@
     </properties>
     <text_editor>
       <ThemeTextEditor
-        line_numbers="#686868"
-        line_numbers_background="#202020"
+        line_numbers="#5a6683"
+        line_numbers_background="#0f1217"
         selected_text="#19355a"
         cursor="#ffffff"
         syntax_builtin="#ff1961"
