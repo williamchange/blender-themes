@@ -828,7 +828,7 @@
         active_strip="#d9d9d9"
         selected_strip="#f2f2f2"
         frame_current="#506db6"
-        time_scrub_background="#363e4fff"
+        time_scrub_background="#0d151bff"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
         keyframe="#ff8500"
@@ -935,9 +935,9 @@
         syntax_special="#95d600"
         syntax_preprocessor="#ad80ff"
         syntax_reserved="#c4753b"
-        syntax_comment="#939393"
+        syntax_comment="#576079"
         syntax_string="#f6e162"
-        syntax_numbers="#50dbff"
+        syntax_numbers="#86c5f2"
         >
         <space>
           <ThemeSpaceGeneric
