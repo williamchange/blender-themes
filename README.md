@@ -10,20 +10,20 @@ Blender themes (2.8+)
 
 ## Slate
 
-[![slate](https://github.com/williamchange/blender-themes/assets/830253/f729d4e4-6aa1-4bbd-99c9-a27daaed3577)](https://github.com/williamchange/blender-themes/blob/master/themes/Slate.xml)
+[![slate](https://github.com/williamchange/blender-themes/assets/830253/9be80741-3166-444b-9538-0935f6daad55)](https://github.com/williamchange/blender-themes/blob/master/themes/Slate.xml)
 
 ## Dusk
 
-[![dusk](https://github.com/williamchange/blender-themes/assets/830253/cdfe3887-fdf3-4ffe-abd9-4c28cdc423d8)](https://github.com/williamchange/blender-themes/blob/master/themes/Dusk.xml)
+[![dusk](https://github.com/williamchange/blender-themes/assets/830253/cbadc8b5-5ccd-4404-bd33-aa31fb4698db)](https://github.com/williamchange/blender-themes/blob/master/themes/Dusk.xml)
 
 ## Midnight Blue
 
-[![midnight_blue](https://github.com/williamchange/blender-themes/assets/830253/85e13ebb-9ce9-405b-b312-1fef1cffce47)](https://github.com/williamchange/blender-themes/blob/master/themes/Midnight_Blue.xml)
+[![midnight_blue](https://github.com/williamchange/blender-themes/assets/830253/248d8429-b77b-44b4-9772-95c8b5095335)](https://github.com/williamchange/blender-themes/blob/master/themes/Midnight_Blue.xml)
 
 ## Blender Darker
 
-[![blender_darker](https://github.com/williamchange/blender-themes/assets/830253/4d75c6c8-0d54-4244-ba4c-3e5c88290fa1)](https://github.com/williamchange/blender-themes/blob/master/themes/Blender_Darker.xml)
+[![blender_darker](https://github.com/williamchange/blender-themes/assets/830253/b95f6199-98c6-4c89-9f3f-31fdf2aeb222)](https://github.com/williamchange/blender-themes/blob/master/themes/Blender_Darker.xml)
 
 ## Blender Darker Plus
 
-[![blender_darker_plus](https://github.com/williamchange/blender-themes/assets/830253/c08a4081-4727-4ac3-9482-e899639dc668)](https://github.com/williamchange/blender-themes/blob/master/themes/Blender_Darker_Plus.xml)
+[![blender_darker_plus](https://github.com/williamchange/blender-themes/assets/830253/f5bacf1a-976e-4a4c-a456-74a4e978c4cd)](https://github.com/williamchange/blender-themes/blob/master/themes/Blender_Darker_Plus.xml)
