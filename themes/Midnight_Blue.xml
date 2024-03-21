@@ -382,7 +382,7 @@
         empty="#24415b"
         light="#24415bff"
         speaker="#24415b"
-        vertex="#43949c"
+        vertex="#000000"
         vertex_select="#38d3ff"
         vertex_active="#000000"
         vertex_size="3"
