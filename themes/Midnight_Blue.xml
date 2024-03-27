@@ -353,7 +353,7 @@
       <ThemeView3D
         grid="#3b496829"
         clipping_border_3d="#313131ff"
-        wire="#24415b"
+        wire="#6580a9"
         wire_edit="#000000"
         edge_width="2"
         gp_vertex="#000000"
@@ -361,7 +361,7 @@
         gp_vertex_size="3"
         text_grease_pencil="#b5e61d"
         object_selected="#ff99ae"
-        object_active="#60c4ff"
+        object_active="#98edff"
         text_keyframe="#ddd700"
         camera="#24415b"
         empty="#24415b"
