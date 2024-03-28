@@ -657,7 +657,7 @@
     </nla_editor>
     <dopesheet_editor>
       <ThemeDopeSheet
-        grid="#2a2a2a"
+        grid="#1c2228"
         frame_current="#2f5881"
         time_scrub_background="#222a35ff"
         time_marker_line="#0d0d0d60"
@@ -685,7 +685,7 @@
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         keyframe_scale_factor="1"
-        summary="#4d250066"
+        summary="#242a3566"
         preview_range="#a14d0066"
         interpolation_line="#94e575cc"
         simulated_frames="#721e65ff"
@@ -699,7 +699,7 @@
             header="#16242fff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
-            button="#282828ff"
+            button="#1b2028ff"
             button_title="#ffffff"
             button_text="#e5e5e5"
             button_text_hi="#ffffff"
