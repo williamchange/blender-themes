@@ -374,6 +374,7 @@
         vertex_bevel="#00a5ff"
         vertex_unreferenced="#000000"
         edge_select="#ffa000"
+        edge_mode_select="#ffd800"
         edge_seam="#db2512"
         edge_sharp="#00ffff"
         edge_crease="#cc0099"
@@ -382,6 +383,7 @@
         freestyle_edge_mark="#7fff7f"
         face="#ffffff02"
         face_select="#ffa5522e"
+        face_mode_select="#ffb70033"
         face_dot="#ff8a00"
         facedot_size="3"
         freestyle_face_mark="#7fff7f4d"
@@ -590,6 +592,7 @@
         grid="#2a2a2a"
         view_sliders="#969696"
         dopesheet_channel="#5a85b2"
+        dopesheet_subchannel="#7d98b3"
         nla_track="#424242"
         active_action="#cc701a66"
         active_action_unset="#9987614d"
@@ -739,6 +742,7 @@
         vertex_unreferenced="#000000"
         face="#ffffff0a"
         face_select="#ff85003c"
+        face_mode_select="#00000000"
         face_dot="#ff8500"
         facedot_size="3"
         freestyle_face_mark="#7fff7f33"
@@ -828,6 +832,13 @@
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
         keyframe="#ff8500"
+        keyframe_selected="#ffbe33"
+        keyframe_breakdown="#b3dbe8"
+        keyframe_breakdown_selected="#54bfed"
+        keyframe_movehold="#808080"
+        keyframe_movehold_selected="#ffaf23"
+        keyframe_border="#000000ff"
+        keyframe_border_selected="#000000ff"
         draw_action="#50c8ff"
         preview_back="#32343b"
         metadatabg="#000000"
@@ -979,7 +990,7 @@
         distor_node="#749797"
         noodle_curving="2"
         grid_levels="0"
-        dash_alpha="0.5"
+        dash_alpha="1"
         input_node="#e64555"
         output_node="#b33641"
         filter_node="#584d80"
@@ -1607,6 +1618,7 @@
     <panel_title>
       <ThemeFontStyle
         points="12"
+        character_weight="400"
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
@@ -1618,6 +1630,7 @@
     <widget_label>
       <ThemeFontStyle
         points="11"
+        character_weight="400"
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
@@ -1629,6 +1642,7 @@
     <widget>
       <ThemeFontStyle
         points="11"
+        character_weight="400"
         shadow="1"
         shadow_offset_x="0"
         shadow_offset_y="-1"
