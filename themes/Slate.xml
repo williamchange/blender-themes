@@ -980,7 +980,7 @@
         wire_inner="#808080"
         wire_select="#ffffffb3"
         selected_text="#7f7070"
-        node_backdrop="#32333bff"
+        node_backdrop="#32333bb3"
         converter_node="#66c4ff"
         color_node="#ccb83d"
         group_node="#426628"
