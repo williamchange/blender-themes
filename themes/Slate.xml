@@ -109,15 +109,15 @@
         <wcol_option>
           <ThemeWidgetColors
             outline="#5e606f"
-            inner="#4b4d59ff"
-            inner_sel="#6f7384ff"
+            inner="#35373fff"
+            inner_sel="#7a7e91ff"
             item="#ffffffff"
             text="#e6e6e6"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="-15"
-            roundness="0.4"
+            roundness="0.5"
             >
           </ThemeWidgetColors>
         </wcol_option>
