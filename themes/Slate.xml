@@ -1046,10 +1046,10 @@
         match="#084523"
         selected_highlight="#5e606f"
         active="#7c7e93"
-        selected_object="#82869a"
-        active_object="#b1b5d2"
+        selected_object="#989cb4"
+        active_object="#dfdcff"
         edited_object="#00806266"
-        row_alternate="#ffffff0a"
+        row_alternate="#ffffff0d"
         >
         <space>
           <ThemeSpaceGeneric
