@@ -10,8 +10,8 @@
         editor_outline="#0b1015"
         widget_text_cursor="#339ae6"
         panel_roundness="0.4"
-        transparent_checker_primary="#333333"
-        transparent_checker_secondary="#262626"
+        transparent_checker_primary="#242a35"
+        transparent_checker_secondary="#1b2028"
         transparent_checker_size="8"
         axis_x="#ff3352"
         axis_y="#8bdc00"
@@ -369,7 +369,6 @@
         speaker="#24415b"
         vertex="#000000"
         vertex_select="#38d3ff"
-        vertex_active="#000000"
         vertex_size="3"
         vertex_bevel="#00a5ff"
         vertex_unreferenced="#000000"
@@ -416,13 +415,15 @@
         bone_pose_active="#8cffff"
         bone_solid="#b2b2b2"
         bone_locked_weight="#ff000080"
+        frame_current="#60c040"
+        before_current_frame="#f22e23"
+        after_current_frame="#78f244"
         bundle_solid="#c8c8c8"
         camera_path="#000000"
         camera_passepartout="#000000"
         skin_root="#b44d4d"
         view_overlay="#000000"
         transform="#ffffff"
-        frame_current="#60c040"
         paint_curve_handle="#7fff7f7f"
         paint_curve_pivot="#ff7f7f7f"
         outline_width="3"
@@ -682,6 +683,8 @@
         keyframe_jitter_selected="#61c042"
         keyframe_movehold="#5c5656"
         keyframe_movehold_selected="#ffaf23"
+        keyframe_generated="#585858"
+        keyframe_generated_selected="#a28962"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         keyframe_scale_factor="1"
@@ -736,7 +739,6 @@
         grid="#505050ff"
         vertex="#000000"
         vertex_select="#ff8500"
-        vertex_active="#000000"
         vertex_size="3"
         vertex_bevel="#000000"
         vertex_unreferenced="#000000"
@@ -808,6 +810,13 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
+        <asset_shelf>
+          <ThemeAssetShelf
+            header_back="#1d1d1dff"
+            back="#303030ff"
+            >
+          </ThemeAssetShelf>
+        </asset_shelf>
       </ThemeImageEditor>
     </image_editor>
     <sequence_editor>
@@ -837,6 +846,8 @@
         keyframe_breakdown_selected="#54bfed"
         keyframe_movehold="#808080"
         keyframe_movehold_selected="#ffaf23"
+        keyframe_generated="#585858"
+        keyframe_generated_selected="#a28962"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         draw_action="#50c8ff"
@@ -1627,18 +1638,6 @@
         >
       </ThemeFontStyle>
     </panel_title>
-    <widget_label>
-      <ThemeFontStyle
-        points="11"
-        character_weight="400"
-        shadow="3"
-        shadow_offset_x="0"
-        shadow_offset_y="-1"
-        shadow_alpha="0.5"
-        shadow_value="0"
-        >
-      </ThemeFontStyle>
-    </widget_label>
     <widget>
       <ThemeFontStyle
         points="11"
@@ -1651,5 +1650,17 @@
         >
       </ThemeFontStyle>
     </widget>
+    <tooltip>
+      <ThemeFontStyle
+        points="11"
+        character_weight="400"
+        shadow="1"
+        shadow_offset_x="0"
+        shadow_offset_y="-1"
+        shadow_alpha="0.5"
+        shadow_value="0"
+        >
+      </ThemeFontStyle>
+    </tooltip>
   </ThemeStyle>
 </bpy>
