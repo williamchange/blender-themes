@@ -8,6 +8,10 @@ Blender themes (2.8+)
 2. In Blender's menu, goto `Edit` > `Preferences` then select Themes.
 3. Click on `Install` and select the .xml theme file you wish to apply.
 
+## Blender Extensions
+
+Currently only `Midnight-Blue` is released and available on the [Blender Extensions website](https://extensions.blender.org/themes/midnight-blue-theme/) for Blender 4.2 and above, but it's still possible to install the themes from the xml files via the theme panel in preferences
+
 ## Slate
 
 [![slate](https://github.com/williamchange/blender-themes/assets/830253/9be80741-3166-444b-9538-0935f6daad55)](https://github.com/williamchange/blender-themes/blob/master/themes/Slate.xml)
@@ -18,7 +22,7 @@ Blender themes (2.8+)
 
 ## Midnight Blue
 
-[![midnight_blue](https://github.com/williamchange/blender-themes/assets/830253/248d8429-b77b-44b4-9772-95c8b5095335)](https://github.com/williamchange/blender-themes/blob/master/themes/Midnight_Blue.xml)
+[![midnight_blue](https://github.com/user-attachments/assets/348d1a45-e532-4f59-8273-bbbb47d0a23b)](https://github.com/williamchange/blender-themes/blob/master/themes/Midnight_Blue.xml)
 
 ## Blender Darker
 
