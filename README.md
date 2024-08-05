@@ -8,6 +8,8 @@ Blender themes (2.8+)
 2. In Blender's menu, goto `Edit` > `Preferences` then select Themes.
 3. Click on `Install` and select the .xml theme file you wish to apply.
 
+Alternatively, click on one of the images below then click on the 2nd button next to `Raw`(Download Raw File) to download a specific theme file directly
+
 ## Blender Extensions
 
 Currently only `Midnight-Blue` is released and available on the [Blender Extensions website](https://extensions.blender.org/themes/midnight-blue-theme/) for Blender 4.2 and above, but it's still possible to install the themes from the xml files via the theme panel in preferences
