@@ -5,7 +5,7 @@ Blender themes (2.8+)
 ## Installation
 
 1. Download this [zip file](https://github.com/williamchange/blender-themes/archive/master.zip) and unzip.
-2. In Blender's menu, goto `Edit` > `Preferences` then select Themes.
+2. From Blender's menu, navigate to `Edit` > `Preferences` then select Themes.
 3. Click on `Install` and select the .xml theme file you wish to apply.
 
 Alternatively, click on one of the images below then click on the 2nd button next to `Raw`(Download Raw File) to download a specific theme file directly
