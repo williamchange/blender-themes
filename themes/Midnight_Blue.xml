@@ -444,7 +444,7 @@
             button_text_hi="#ffffff"
             navigation_bar="#00000000"
             execution_buts="#00000000"
-            tab_active="#2c4d67"
+            tab_active="#375371"
             tab_inactive="#26333f"
             tab_back="#121a22ff"
             tab_outline="#121a22ff"
@@ -459,8 +459,8 @@
             </gradients>
             <panelcolors>
               <ThemePanelColors
-                header="#202e3cff"
-                back="#1c2530ff"
+                header="#223445ff"
+                back="#1f2936ff"
                 sub_back="#0000003e"
                 >
               </ThemePanelColors>
@@ -593,11 +593,11 @@
       <ThemeNLAEditor
         grid="#2a2a2a"
         view_sliders="#969696"
-        dopesheet_channel="#5a85b2"
-        dopesheet_subchannel="#7d98b3"
+        dopesheet_channel="#2e445f"
+        dopesheet_subchannel="#283340"
         nla_track="#424242"
         active_action="#cc701a66"
-        active_action_unset="#9987614d"
+        active_action_unset="#4b43314d"
         preview_range="#a14d0066"
         strips="#0c0a0a"
         strips_selected="#ff8c00"
@@ -906,7 +906,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#19242f"
+            back="#161e27"
             title="#d4d4d4"
             text="#e6e6e6"
             text_hi="#ffffff"
@@ -926,8 +926,8 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#2a394bff"
-                back="#26313eff"
+                header="#263140ff"
+                back="#1f2a36ff"
                 sub_back="#00000024"
                 >
               </ThemePanelColors>
@@ -1016,6 +1016,7 @@
         attribute_node="#3f5980"
         simulation_zone="#0c141ac4"
         repeat_zone="#76512f33"
+        foreach_geometry_element_zone="#33527f33"
         >
         <space>
           <ThemeSpaceGeneric
