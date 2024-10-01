@@ -4,10 +4,12 @@
       <ThemeUserInterface
         menu_shadow_fac="0.3"
         menu_shadow_width="4"
-        icon_alpha="1"
+        icon_alpha="0.9"
         icon_saturation="0.5"
         widget_emboss="#00000026"
-        editor_outline="#0b1015"
+        editor_border="#12161b"
+        editor_outline="#ffffff00"
+        editor_outline_active="#48526982"
         widget_text_cursor="#339ae6"
         panel_roundness="0.4"
         transparent_checker_primary="#242a35"
@@ -354,9 +356,9 @@
       <ThemeView3D
         grid="#3b496829"
         clipping_border_3d="#313131ff"
-        wire="#a1bce6"
+        wire="#6580a9"
         wire_edit="#000000"
-        edge_width="1"
+        edge_width="2"
         gp_vertex="#000000"
         gp_vertex_select="#ff8500"
         gp_vertex_size="3"
@@ -444,8 +446,8 @@
             button_text_hi="#ffffff"
             navigation_bar="#00000000"
             execution_buts="#00000000"
-            tab_active="#375371"
-            tab_inactive="#26333f"
+            tab_active="#274359"
+            tab_inactive="#0a101c"
             tab_back="#121a22ff"
             tab_outline="#121a22ff"
             >
@@ -459,8 +461,8 @@
             </gradients>
             <panelcolors>
               <ThemePanelColors
-                header="#223445ff"
-                back="#1f2936ff"
+                header="#0b1015ff"
+                back="#121a22ff"
                 sub_back="#0000003e"
                 >
               </ThemePanelColors>
@@ -593,11 +595,11 @@
       <ThemeNLAEditor
         grid="#2a2a2a"
         view_sliders="#969696"
-        dopesheet_channel="#2e445f"
-        dopesheet_subchannel="#283340"
+        dopesheet_channel="#5a85b2"
+        dopesheet_subchannel="#7d98b3"
         nla_track="#424242"
         active_action="#cc701a66"
-        active_action_unset="#4b43314d"
+        active_action_unset="#9987614d"
         preview_range="#a14d0066"
         strips="#0c0a0a"
         strips_selected="#ff8c00"
@@ -906,7 +908,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#161e27"
+            back="#19242f"
             title="#d4d4d4"
             text="#e6e6e6"
             text_hi="#ffffff"
@@ -926,8 +928,8 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#263140ff"
-                back="#1f2a36ff"
+                header="#2a3442ff"
+                back="#1a2028ff"
                 sub_back="#00000024"
                 >
               </ThemePanelColors>
