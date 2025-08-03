@@ -54,7 +54,7 @@
             outline="#1b2332ff"
             inner="#0d1118ff"
             inner_sel="#27466bff"
-            item="#ffffffff"
+            item="#ffd644ff"
             text="#e6e6e6"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -1022,9 +1022,9 @@
         layout_node="#6c696f"
         geometry_node="#00d7a4"
         attribute_node="#3f5980"
-        simulation_zone="#0c141ac4"
+        simulation_zone="#3f2c3d80"
         repeat_zone="#76512f33"
-        foreach_geometry_element_zone="#33527f33"
+        foreach_geometry_element_zone="#2e4a7226"
         closure_zone="#527f3333"
         >
         <space>
