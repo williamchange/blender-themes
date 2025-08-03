@@ -8,8 +8,8 @@
         icon_saturation="0.5"
         widget_emboss="#00000026"
         editor_border="#12161b"
-        editor_outline="#00000000"
-        editor_outline_active="#00000000"
+        editor_outline="#000000ff"
+        editor_outline_active="#363e4fff"
         widget_text_cursor="#339ae6"
         panel_roundness="0.4"
         transparent_checker_primary="#242a35"
@@ -321,6 +321,10 @@
         </wcol_list_item>
         <wcol_state>
           <ThemeWidgetStateColors
+            error="#771111ff"
+            warning="#ac8737ff"
+            info="#28487dff"
+            success="#188625ff"
             inner_anim="#53992e"
             inner_anim_sel="#38a600"
             inner_key="#b3ae36"
@@ -859,6 +863,8 @@
         metadatatext="#ffffff"
         preview_range="#a14d0066"
         row_alternate="#b0c5ff1b"
+        text_strip_cursor="#71a8ffff"
+        selected_text="#ffffff4d"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1019,6 +1025,7 @@
         simulation_zone="#0c141ac4"
         repeat_zone="#76512f33"
         foreach_geometry_element_zone="#33527f33"
+        closure_zone="#527f3333"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1107,11 +1114,8 @@
       <ThemeInfo
         info_selected="#3b5689"
         info_selected_text="#ffffff"
-        info_error="#ff613dff"
         info_error_text="#ffffff"
-        info_warning="#f5bc41ff"
         info_warning_text="#ffffff"
-        info_info="#1d4383ff"
         info_info_text="#ffffff"
         info_debug="#d3d3d3ff"
         info_debug_text="#000000"
@@ -1248,6 +1252,7 @@
         strips_selected="#ff8c00"
         metadatabg="#000000"
         metadatatext="#ffffff"
+        preview_range="#a14d0066"
         handle_free="#000000"
         handle_auto="#909000"
         handle_align="#803060"
