@@ -946,7 +946,7 @@
     </properties>
     <text_editor>
       <ThemeTextEditor
-        line_numbers="#5a6683"
+        line_numbers="#485269"
         line_numbers_background="#0f1217"
         selected_text="#19355a"
         cursor="#ffffff"
@@ -955,7 +955,7 @@
         syntax_special="#95d600"
         syntax_preprocessor="#ad80ff"
         syntax_reserved="#c4753b"
-        syntax_comment="#576079"
+        syntax_comment="#454c5f"
         syntax_string="#f6e162"
         syntax_numbers="#86c5f2"
         >
