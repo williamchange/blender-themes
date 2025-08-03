@@ -8,7 +8,7 @@
         icon_saturation="0.5"
         widget_emboss="#00000026"
         editor_border="#12161b"
-        editor_outline="#000000ff"
+        editor_outline="#00000000"
         editor_outline_active="#363e4fff"
         widget_text_cursor="#339ae6"
         panel_roundness="0.4"
@@ -1310,7 +1310,7 @@
       <ThemeTopBar>
         <space>
           <ThemeSpaceGeneric
-            back="#4f4f4f"
+            back="#121a22"
             title="#ffffff"
             text="#e6e6e6"
             text_hi="#ffffff"
