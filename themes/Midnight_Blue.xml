@@ -948,15 +948,15 @@
       <ThemeTextEditor
         line_numbers="#485269"
         line_numbers_background="#0f1217"
-        selected_text="#19355a"
+        selected_text="#233449"
         cursor="#ffffff"
-        syntax_builtin="#ff1961"
-        syntax_symbols="#ff734d"
-        syntax_special="#95d600"
+        syntax_builtin="#f25c73"
+        syntax_symbols="#f27654"
+        syntax_special="#a5c960"
         syntax_preprocessor="#ad80ff"
         syntax_reserved="#c4753b"
-        syntax_comment="#454c5f"
-        syntax_string="#f6e162"
+        syntax_comment="#4e566c"
+        syntax_string="#e9bb36"
         syntax_numbers="#86c5f2"
         >
         <space>
