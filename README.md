@@ -11,8 +11,7 @@ Midnight Blue and a couple other blender themes (2.8+)
 Midnight Blue is released and available on the [Blender Extensions website](https://extensions.blender.org/themes/midnight-blue-theme/) for Blender 4.2 and above. Other themes are not on the site yet but it's still possible to install the xml files via the theme panel in preferences.
 
 >[!NOTE]
-> Blender 5.0 alpha support for Midnight Blue can be downloaded [here](https://github.com/williamchange/blender-themes/blob/5.0/themes/Midnight_Blue.xml)
-
+> Blender 5.0+ support for Midnight Blue is available via [Midnight_Blue_Next](https://github.com/williamchange/blender-themes/blob/master/themes/Midnight_Blue_Next.xml)
 
 ## Installation
 
