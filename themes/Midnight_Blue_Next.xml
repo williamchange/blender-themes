@@ -158,8 +158,8 @@
           <ThemeWidgetColors
             outline="#10141fff"
             outline_sel="#3d3d3dff"
-            inner="#10141fff"
-            inner_sel="#0b0e14ff"
+            inner="#121619ff"
+            inner_sel="#19202eff"
             item="#27466bff"
             text="#e6e6e6"
             text_sel="#ffffff"
@@ -173,10 +173,10 @@
         <wcol_numslider>
           <ThemeWidgetColors
             outline="#0b0e14ff"
-            outline_sel="#3d3d3dff"
-            inner="#0b0e14ff"
-            inner_sel="#0b0e14ff"
-            item="#1a364de6"
+            outline_sel="#576c8bff"
+            inner="#121619ff"
+            inner_sel="#19202eff"
+            item="#3f4e64e6"
             text="#e6e6e6"
             text_sel="#ffffff"
             show_shaded="FALSE"
