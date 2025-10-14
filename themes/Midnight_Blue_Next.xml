@@ -15,8 +15,8 @@
         panel_header="#2a3442ff"
         panel_title="#e6e6e6"
         panel_text="#e6e6e6"
-        panel_back="#1a2028ff"
-        panel_sub_back="#0000001f"
+        panel_back="#222a35cc"
+        panel_sub_back="#00000033"
         panel_outline="#ffffff11"
         panel_active="#4772b3ff"
         transparent_checker_primary="#242a35"
@@ -284,9 +284,9 @@
         </wcol_pie_menu>
         <wcol_tooltip>
           <ThemeWidgetColors
-            outline="#19191aff"
+            outline="#19191a00"
             outline_sel="#242424ff"
-            inner="#0c121aff"
+            inner="#2f3a4aff"
             inner_sel="#19191aef"
             item="#19191aef"
             text="#e6e6e6"
