@@ -220,9 +220,9 @@
         </wcol_curve>
         <wcol_menu>
           <ThemeWidgetColors
-            outline="#121721ff"
-            outline_sel="#3d3d3dff"
-            inner="#04080cff"
+            outline="#171c23ff"
+            outline_sel="#87a8d9ff"
+            inner="#27303dff"
             inner_sel="#27466bff"
             item="#d9d9d9ff"
             text="#d9d9d9"
