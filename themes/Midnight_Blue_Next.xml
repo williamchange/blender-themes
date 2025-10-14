@@ -254,7 +254,7 @@
           <ThemeWidgetColors
             outline="#425779ff"
             outline_sel="#242424ff"
-            inner="#263345ff"
+            inner="#18202bff"
             inner_sel="#585858ff"
             item="#727272ff"
             text="#a5a5a5"
@@ -262,7 +262,7 @@
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
-            roundness="0"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_menu_back>
