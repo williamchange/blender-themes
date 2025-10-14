@@ -404,8 +404,8 @@
       <ThemeRegions>
         <asset_shelf>
           <ThemeRegionsAssetShelf
-            back="#303030ff"
-            header_back="#1d1d1dff"
+            back="#1a2028ff"
+            header_back="#2a3442ff"
             >
           </ThemeRegionsAssetShelf>
         </asset_shelf>
