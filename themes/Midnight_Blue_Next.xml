@@ -60,10 +60,10 @@
         </wcol_regular>
         <wcol_tool>
           <ThemeWidgetColors
-            outline="#1b2332ff"
-            outline_sel="#3d3d3dff"
-            inner="#0d1118ff"
-            inner_sel="#27466bff"
+            outline="#1b233200"
+            outline_sel="#5a75a5ff"
+            inner="#29364aff"
+            inner_sel="#455a7eff"
             item="#ffd644ff"
             text="#e6e6e6"
             text_sel="#ffffff"
