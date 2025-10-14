@@ -419,7 +419,7 @@
         </channels>
         <scrubbing>
           <ThemeRegionsScrubbing
-            back="#161616ff"
+            back="#1f2630ff"
             text="#c3c3c3"
             time_marker="#ffffff4d"
             time_marker_selected="#ffffffb3"
@@ -428,7 +428,7 @@
         </scrubbing>
         <sidebars>
           <ThemeRegionsSidebars
-            back="#27303d00"
+            back="#171c2300"
             tab_back="#171c2300"
             >
           </ThemeRegionsSidebars>
@@ -552,7 +552,7 @@
             title="#eeeeee"
             text="#e6e6e6"
             text_hi="#ffffff"
-            header="#16242f00"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -582,7 +582,7 @@
             title="#ffffff"
             text="#a6a6a6"
             text_hi="#ffffff"
-            header="#16242fff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -601,7 +601,7 @@
             title="#ffffff"
             text="#e6e6e6"
             text_hi="#ffffff"
-            header="#16242f00"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -633,7 +633,7 @@
             title="#ffffff"
             text="#a6a6a6"
             text_hi="#ffffff"
-            header="#121a22ff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -657,7 +657,7 @@
             title="#eeeeee"
             text="#a6a6a6"
             text_hi="#ffffff"
-            header="#16242fff"
+            header="#27303dff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -696,7 +696,7 @@
             title="#eeeeee"
             text="#e6e6e6"
             text_hi="#ffffff"
-            header="#121a22ff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -735,7 +735,7 @@
             title="#eeeeee"
             text="#a6a6a6"
             text_hi="#eeeeee"
-            header="#16242fff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -749,11 +749,11 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#19242f"
+            back="#191e26"
             title="#d4d4d4"
             text="#e6e6e6"
             text_hi="#ffffff"
-            header="#16242fff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -782,7 +782,7 @@
             title="#eeeeee"
             text="#e6e6e6"
             text_hi="#ffffff"
-            header="#0b1015ff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -829,7 +829,7 @@
             title="#eeeeee"
             text="#e6e6e6"
             text_hi="#ffffff"
-            header="#16242fff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -853,7 +853,7 @@
             title="#ffffff"
             text="#c3c3c3"
             text_hi="#ffffff"
-            header="#16242fff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -881,7 +881,7 @@
             title="#ffffff"
             text="#c3c3c3"
             text_hi="#ffffff"
-            header="#121a22ff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -893,11 +893,11 @@
       <ThemePreferences>
         <space>
           <ThemeSpaceGeneric
-            back="#1b2028"
+            back="#191e26"
             title="#ffffff"
             text="#b1b1b1"
             text_hi="#ffffff"
-            header="#16242fff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -920,7 +920,7 @@
             title="#eeeeee"
             text="#e6e6e6"
             text_hi="#ffffff"
-            header="#121a22ff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -950,7 +950,7 @@
             title="#eeeeee"
             text="#a6a6a6"
             text_hi="#ffffff"
-            header="#16242f00"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
@@ -1000,7 +1000,7 @@
             title="#ffffff"
             text="#c3c3c3"
             text_hi="#ffffff"
-            header="#16242fff"
+            header="#212833ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
