@@ -124,10 +124,10 @@
         </wcol_text>
         <wcol_option>
           <ThemeWidgetColors
-            outline="#1a1a1aff"
-            outline_sel="#3d3d3dff"
-            inner="#0d0d0dff"
-            inner_sel="#27466bff"
+            outline="#475871b3"
+            outline_sel="#7e9dcbff"
+            inner="#11151bff"
+            inner_sel="#27303dff"
             item="#ffffffff"
             text="#e6e6e6"
             text_sel="#ffffff"
