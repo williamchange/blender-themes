@@ -348,12 +348,12 @@
         </wcol_progress>
         <wcol_list_item>
           <ThemeWidgetColors
-            outline="#2d2d2dff"
-            outline_sel="#2d2d2dff"
-            inner="#2d2d2d00"
+            outline="#2d2d2d00"
+            outline_sel="#577095cc"
+            inner="#619cc300"
             inner_sel="#375776ff"
             item="#27466bff"
-            text="#e6e6e6"
+            text="#cccccc"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="0"
@@ -592,8 +592,8 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#4f76b3"
-        row_alternate="#ffffff07"
+        selected_file="#2d3b4b"
+        row_alternate="#2531423c"
         >
         <space>
           <ThemeSpaceGeneric
