@@ -2,7 +2,7 @@
     <h1 align = "center">Midnight Blue</h1>
 </p>
 
-<a href="https://github.com/williamchange/blender-themes/blob/master/themes/Midnight_Blue.xml"><img width="1468" height="854" alt="header" src="https://github.com/user-attachments/assets/b47d8448-7307-475b-866e-5908971d0a04" /></a>
+<a href="https://github.com/williamchange/blender-themes/blob/master/themes/Midnight_Blue_Next.xml"><img width="1468" height="854" alt="header" src="https://github.com/user-attachments/assets/b47d8448-7307-475b-866e-5908971d0a04" /></a>
 
 ## Blender Extensions
 
