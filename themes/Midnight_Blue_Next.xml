@@ -419,7 +419,7 @@
         </channels>
         <scrubbing>
           <ThemeRegionsScrubbing
-            back="#1f2630ff"
+            back="#13181dff"
             text="#c3c3c3"
             time_marker="#ffffff4d"
             time_marker_selected="#ffffffb3"
