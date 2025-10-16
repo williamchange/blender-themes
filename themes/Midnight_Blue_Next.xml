@@ -76,10 +76,10 @@
         </wcol_tool>
         <wcol_toolbar_item>
           <ThemeWidgetColors
-            outline="#273849ff"
-            outline_sel="#3d3d3dff"
+            outline="#284256ff"
+            outline_sel="#284256ff"
             inner="#121a22ff"
-            inner_sel="#2e4c63ff"
+            inner_sel="#345670ff"
             item="#e6e6e6cc"
             text="#e6e6e6"
             text_sel="#ffffff"
