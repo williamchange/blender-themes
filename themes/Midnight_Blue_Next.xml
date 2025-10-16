@@ -559,7 +559,7 @@
             <gradients>
               <ThemeGradientColors
                 background_type="SINGLE_COLOR"
-                high_gradient="#0c1117"
+                high_gradient="#171e25"
                 gradient="#000000"
                 >
               </ThemeGradientColors>
