@@ -766,7 +766,7 @@
         line_numbers="#485269"
         line_numbers_background="#0f1217"
         selected_text="#233449"
-        cursor="#ffffff"
+        cursor="#5f8ecb"
         syntax_builtin="#f25c73"
         syntax_symbols="#f27654"
         syntax_special="#a5c960"
@@ -909,9 +909,9 @@
       <ThemeConsole
         line_output="#71a8ff"
         line_input="#f2f2f2"
-        line_info="#95d600"
+        line_info="#acd64d"
         line_error="#ff4d84"
-        cursor="#ff0000"
+        cursor="#e75c5c"
         select="#ffffff30"
         >
         <space>
