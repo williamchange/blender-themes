@@ -749,11 +749,11 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#191e26"
+            back="#1c232d"
             title="#d4d4d4"
             text="#e6e6e6"
             text_hi="#ffffff"
-            header="#212833ff"
+            header="#222933ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
