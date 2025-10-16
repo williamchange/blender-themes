@@ -141,9 +141,9 @@
         <wcol_toggle>
           <ThemeWidgetColors
             outline="#081119ff"
-            outline_sel="#3d3d3dff"
+            outline_sel="#0b0d10d4"
             inner="#081119ff"
-            inner_sel="#27466bff"
+            inner_sel="#3e5471cc"
             item="#191919ff"
             text="#e6e6e6"
             text_sel="#ffffff"
