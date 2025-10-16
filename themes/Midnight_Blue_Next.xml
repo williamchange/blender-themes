@@ -870,9 +870,9 @@
         info_info_text="#ffffff"
         info_debug="#d3d3d3ff"
         info_debug_text="#000000"
-        info_property="#3ace87ff"
+        info_property="#32b375ff"
         info_property_text="#ffffff"
-        info_operator="#3ace87ff"
+        info_operator="#349969ff"
         info_operator_text="#ffffff"
         >
         <space>
