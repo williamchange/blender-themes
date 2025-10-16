@@ -44,8 +44,8 @@
         >
         <wcol_regular>
           <ThemeWidgetColors
-            outline="#1b2332ff"
-            outline_sel="#89b1ff00"
+            outline="#13181d80"
+            outline_sel="#7eb2ffff"
             inner="#1b2332ff"
             inner_sel="#355a8bff"
             item="#3e3e3eff"
@@ -318,14 +318,14 @@
           <ThemeWidgetColors
             outline="#1e2f41ff"
             outline_sel="#3d3d3dff"
-            inner="#121d27ff"
+            inner="#0c141a80"
             inner_sel="#1e2f41ff"
             item="#35404eff"
             text="#e6e6e6"
             text_sel="#ffffff"
             show_shaded="FALSE"
-            shadetop="5"
-            shadedown="-5"
+            shadetop="0"
+            shadedown="0"
             roundness="1"
             >
           </ThemeWidgetColors>
