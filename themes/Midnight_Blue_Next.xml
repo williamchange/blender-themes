@@ -38,7 +38,7 @@
         icon_object_data="#00d4a3ff"
         icon_modifier="#84b8ffff"
         icon_shading="#dd6f7aff"
-        icon_folder="#456184ff"
+        icon_folder="#6d8fbfff"
         icon_autokey="#ab3c48ff"
         icon_border_intensity="0"
         >
@@ -597,7 +597,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#121a22"
+            back="#161b22"
             title="#ffffff"
             text="#e6e6e6"
             text_hi="#ffffff"
@@ -930,7 +930,7 @@
     </console>
     <clip_editor>
       <ThemeClipEditor
-        grid="#424242ff"
+        grid="#3a485cff"
         marker_outline="#000000"
         marker="#7f7f00"
         active_marker="#ffffff"
