@@ -86,7 +86,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.5"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_toolbar_item>
@@ -182,7 +182,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="-17"
-            roundness="0.25"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_numslider>
@@ -294,7 +294,7 @@
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
-            roundness="0.5"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_tooltip>
@@ -394,7 +394,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.55"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_tab>
