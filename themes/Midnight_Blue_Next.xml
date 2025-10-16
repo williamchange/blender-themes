@@ -284,9 +284,9 @@
         </wcol_pie_menu>
         <wcol_tooltip>
           <ThemeWidgetColors
-            outline="#19191a00"
+            outline="#3b4a5eff"
             outline_sel="#242424ff"
-            inner="#2f3a4aff"
+            inner="#293344ff"
             inner_sel="#19191aef"
             item="#19191aef"
             text="#e6e6e6"
