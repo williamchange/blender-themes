@@ -384,8 +384,8 @@
         </wcol_state>
         <wcol_tab>
           <ThemeWidgetColors
-            outline="#3d3f48ff"
-            outline_sel="#3d3f4900"
+            outline="#3d3f4800"
+            outline_sel="#5e6070ff"
             inner="#1c1e21ff"
             inner_sel="#484a55ff"
             item="#2d2d2dff"
@@ -966,7 +966,7 @@
             title="#ffffff"
             text="#e6e6e6"
             text_hi="#ffffff"
-            header="#3d3f481a"
+            header="#2f30370a"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             >
