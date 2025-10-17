@@ -763,22 +763,22 @@
     </properties>
     <text_editor>
       <ThemeTextEditor
-        line_numbers="#d0d0d0"
-        line_numbers_background="#2a2a31"
+        line_numbers="#cbcbcb"
+        line_numbers_background="#464853"
         selected_text="#5680c2"
-        cursor="#ff0000"
-        syntax_builtin="#ff1961"
-        syntax_symbols="#ff734d"
-        syntax_special="#95d600"
+        cursor="#9b9dc8"
+        syntax_builtin="#e4618a"
+        syntax_symbols="#eb825e"
+        syntax_special="#82c139"
         syntax_preprocessor="#ad80ff"
         syntax_reserved="#c4753b"
-        syntax_comment="#939393"
-        syntax_string="#f6e162"
-        syntax_numbers="#50dbff"
+        syntax_comment="#6c6f8c"
+        syntax_string="#e7cf36"
+        syntax_numbers="#80c9dc"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#3d3f48"
+            back="#2d2f39"
             title="#eeeeee"
             text="#e6e6e6"
             text_hi="#ffffff"
