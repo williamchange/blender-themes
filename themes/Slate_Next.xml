@@ -17,7 +17,7 @@
         panel_text="#e6e6e6"
         panel_back="#464853ff"
         panel_sub_back="#0000001f"
-        panel_outline="#ffffff11"
+        panel_outline="#67697abc"
         panel_active="#6c6e86ff"
         transparent_checker_primary="#333333"
         transparent_checker_secondary="#262626"
@@ -109,10 +109,10 @@
         <wcol_text>
           <ThemeWidgetColors
             outline="#3d3f48ff"
-            outline_sel="#3d3d3dff"
+            outline_sel="#696b7cff"
             inner="#2a2c32ff"
             inner_sel="#212327ff"
-            item="#191919ff"
+            item="#5e6070ff"
             text="#e6e6e6"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -157,9 +157,9 @@
         <wcol_num>
           <ThemeWidgetColors
             outline="#3d3f48ff"
-            outline_sel="#3d3d3dff"
-            inner="#35373fff"
-            inner_sel="#6f7384ff"
+            outline_sel="#696b7d00"
+            inner="#2a2c32ff"
+            inner_sel="#1f2125ff"
             item="#191919ff"
             text="#e6e6e6"
             text_sel="#ffffff"
@@ -333,7 +333,7 @@
         <wcol_progress>
           <ThemeWidgetColors
             outline="#3d3f48ff"
-            outline_sel="#3d3d3dff"
+            outline_sel="#3d3d3d00"
             inner="#40424cff"
             inner_sel="#6f7384ff"
             item="#32333b33"
