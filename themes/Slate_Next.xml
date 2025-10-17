@@ -404,8 +404,8 @@
       <ThemeRegions>
         <asset_shelf>
           <ThemeRegionsAssetShelf
-            back="#303030ff"
-            header_back="#1d1d1dff"
+            back="#454651ff"
+            header_back="#5b5c6bff"
             >
           </ThemeRegionsAssetShelf>
         </asset_shelf>
@@ -719,7 +719,7 @@
         mask_strip="#666666"
         text_strip="#83718f"
         active_strip="#d9d9d9"
-        selected_strip="#ff8f0d"
+        selected_strip="#ffa080"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         preview_back="#32343b"
@@ -731,7 +731,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#33333b"
+            back="#383841"
             title="#eeeeee"
             text="#a6a6a6"
             text_hi="#ffffff"
@@ -982,7 +982,7 @@
             title="#ffffff"
             text="#838383"
             text_hi="#ffffff"
-            header="#3d3f481a"
+            header="#2f30371a"
             header_text="#aaaaaa"
             header_text_hi="#ffffff"
             >
