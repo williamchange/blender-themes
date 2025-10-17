@@ -1,12 +1,10 @@
-<p align="center">
-    <h1 align = "center">Midnight Blue</h1>
-</p>
+<a href="https://github.com/williamchange/blender-themes/blob/master/themes/Midnight_Blue_Next.xml"><img width="1400" alt="midnightblue-header" src="https://github.com/user-attachments/assets/fc76eb6f-120d-4ab2-b20e-b0ef0740c55f" /></a>
 
-<a href="https://github.com/williamchange/blender-themes/blob/master/themes/Midnight_Blue_Next.xml"><img width="1468" height="854" alt="header" src="https://github.com/user-attachments/assets/b47d8448-7307-475b-866e-5908971d0a04" /></a>
+<a href="https://github.com/williamchange/blender-themes/blob/master/themes/Wisteria.xml"><img width="1400" alt="wisteria-header" src="https://github.com/user-attachments/assets/7acb51a8-652e-4d22-8c1b-5568bed68173" /></a>
 
 ## Blender Extensions
 
-Midnight Blue is released and available on the [Blender Extensions website](https://extensions.blender.org/themes/midnight-blue-theme/) for Blender 4.2/5.0+. Other themes are not on the site yet but it's still possible to install the xml files via the theme panel in preferences.
+Midnight Blue is released and available on the [Blender Extensions website](https://extensions.blender.org/themes/midnight-blue-theme/) for Blender 4.2/5.0+. Other themes are not on the site yet but it's still possible to install the xml files in preferences.
 
 ## Installation
 
