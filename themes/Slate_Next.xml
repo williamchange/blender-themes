@@ -76,9 +76,9 @@
         </wcol_tool>
         <wcol_toolbar_item>
           <ThemeWidgetColors
-            outline="#3d3f48ff"
-            outline_sel="#3d3d3dff"
-            inner="#40424cff"
+            outline="#696b7cff"
+            outline_sel="#696b7cff"
+            inner="#383a46ff"
             inner_sel="#6f7384ff"
             item="#e6e6e6cc"
             text="#e6e6e6"
