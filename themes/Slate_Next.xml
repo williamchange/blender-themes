@@ -252,7 +252,7 @@
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors
-            outline="#3d3f48ff"
+            outline="#5e606fff"
             outline_sel="#242424ff"
             inner="#40424cff"
             inner_sel="#6f7384ff"
