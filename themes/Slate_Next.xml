@@ -1231,7 +1231,7 @@
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
-        shadow_alpha="0.5"
+        shadow_alpha="0.3"
         shadow_value="0"
         >
       </ThemeFontStyle>
@@ -1250,7 +1250,7 @@
     </widget>
     <tooltip>
       <ThemeFontStyle
-        points="11"
+        points="12"
         character_weight="400"
         shadow="1"
         shadow_offset_x="0"
