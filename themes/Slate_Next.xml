@@ -7,18 +7,18 @@
         icon_alpha="1"
         icon_saturation="0.5"
         widget_emboss="#34363e26"
-        editor_border="#161616"
+        editor_border="#27292f"
         editor_outline="#24262b15"
         editor_outline_active="#ffffff2a"
         widget_text_cursor="#3399e6"
         panel_roundness="0.4"
-        panel_header="#3d3d3dff"
+        panel_header="#5c5e6dff"
         panel_title="#e6e6e6"
         panel_text="#e6e6e6"
-        panel_back="#3d3d3dff"
+        panel_back="#464853ff"
         panel_sub_back="#0000001f"
         panel_outline="#ffffff11"
-        panel_active="#4772b3ff"
+        panel_active="#6c6e86ff"
         transparent_checker_primary="#333333"
         transparent_checker_secondary="#262626"
         transparent_checker_size="8"
@@ -38,7 +38,7 @@
         icon_object_data="#00d4a3ff"
         icon_modifier="#84b8ffff"
         icon_shading="#ea7581ff"
-        icon_folder="#292b31ff"
+        icon_folder="#7f83a4ff"
         icon_autokey="#ab3c48ff"
         icon_border_intensity="0"
         >
@@ -92,10 +92,10 @@
         </wcol_toolbar_item>
         <wcol_radio>
           <ThemeWidgetColors
-            outline="#3d3f48ff"
-            outline_sel="#3d3d3dff"
+            outline="#535562ff"
+            outline_sel="#a0a2be00"
             inner="#40424cff"
-            inner_sel="#566484ff"
+            inner_sel="#707087ff"
             item="#ffffffff"
             text="#e6e6e6"
             text_sel="#ffffff"
@@ -419,7 +419,7 @@
         </channels>
         <scrubbing>
           <ThemeRegionsScrubbing
-            back="#161616ff"
+            back="#27292fff"
             text="#c3c3c3"
             time_marker="#ffffff4d"
             time_marker_selected="#ffffffb3"
@@ -428,8 +428,8 @@
         </scrubbing>
         <sidebars>
           <ThemeRegionsSidebars
-            back="#30303000"
-            tab_back="#18181800"
+            back="#32343c00"
+            tab_back="#27292f00"
             >
           </ThemeRegionsSidebars>
         </sidebars>
@@ -647,9 +647,9 @@
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         keyframe_scale_factor="1"
-        summary="#4d250066"
+        summary="#5b5c7a66"
         interpolation_line="#94e575cc"
-        simulated_frames="#721e65ff"
+        simulated_frames="#6e4d72ff"
         >
         <space>
           <ThemeSpaceGeneric
