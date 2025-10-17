@@ -7,16 +7,16 @@
         icon_alpha="1"
         icon_saturation="0.5"
         widget_emboss="#34363e26"
-        editor_border="#27292f"
-        editor_outline="#24262b15"
+        editor_border="#24252a"
+        editor_outline="#24262b00"
         editor_outline_active="#ffffff2a"
-        widget_text_cursor="#3399e6"
+        widget_text_cursor="#b0aee0"
         panel_roundness="0.4"
         panel_header="#5c5e6dff"
         panel_title="#e6e6e6"
         panel_text="#e6e6e6"
         panel_back="#464853ff"
-        panel_sub_back="#0000001f"
+        panel_sub_back="#0000002d"
         panel_outline="#67697abc"
         panel_active="#6c6e86ff"
         transparent_checker_primary="#333333"
@@ -62,7 +62,7 @@
           <ThemeWidgetColors
             outline="#3d3f48ff"
             outline_sel="#3d3d3dff"
-            inner="#40424cff"
+            inner="#616373ff"
             inner_sel="#6f7384ff"
             item="#ffffffff"
             text="#e6e6e6"
@@ -284,7 +284,7 @@
         </wcol_pie_menu>
         <wcol_tooltip>
           <ThemeWidgetColors
-            outline="#3d3f48ff"
+            outline="#5e606fff"
             outline_sel="#242424ff"
             inner="#40424cff"
             inner_sel="#6f7384ff"
