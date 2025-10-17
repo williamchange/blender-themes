@@ -93,7 +93,7 @@
         <wcol_radio>
           <ThemeWidgetColors
             outline="#535562ff"
-            outline_sel="#a0a2be00"
+            outline_sel="#707087ff"
             inner="#40424cff"
             inner_sel="#707087ff"
             item="#ffffffff"
@@ -302,7 +302,7 @@
           <ThemeWidgetColors
             outline="#3d3f4800"
             outline_sel="#3d3d3d00"
-            inner="#40424cff"
+            inner="#5b5c7100"
             inner_sel="#6f7384ff"
             item="#ffffff8f"
             text="#e6e6e6"
