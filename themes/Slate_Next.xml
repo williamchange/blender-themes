@@ -38,9 +38,9 @@
         icon_object_data="#00d4a3ff"
         icon_modifier="#84b8ffff"
         icon_shading="#ea7581ff"
-        icon_folder="#7f83a4ff"
+        icon_folder="#9d9cb9ff"
         icon_autokey="#ab3c48ff"
-        icon_border_intensity="0"
+        icon_border_intensity="0.5"
         >
         <wcol_regular>
           <ThemeWidgetColors
@@ -188,9 +188,9 @@
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors
-            outline="#3d3f48ff"
+            outline="#696b7cff"
             outline_sel="#3d3d3dff"
-            inner="#40424cff"
+            inner="#35373fff"
             inner_sel="#6f7384ff"
             item="#191919ff"
             text="#e6e6e6"
@@ -224,7 +224,7 @@
             outline_sel="#3d3d3dff"
             inner="#4b4d59ff"
             inner_sel="#6f7384ff"
-            item="#d9d9d9ff"
+            item="#ffffffff"
             text="#d9d9d9"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -348,9 +348,9 @@
         </wcol_progress>
         <wcol_list_item>
           <ThemeWidgetColors
-            outline="#3d3f48ff"
-            outline_sel="#2d2d2dff"
-            inner="#40424cff"
+            outline="#3d3f4800"
+            outline_sel="#2d2d2d00"
+            inner="#43454fdb"
             inner_sel="#6f7384ff"
             item="#b3b3b3ff"
             text="#e6e6e6"
@@ -592,8 +592,8 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#6e82ab"
-        row_alternate="#ffffff07"
+        selected_file="#7c89c3"
+        row_alternate="#ffffff0e"
         >
         <space>
           <ThemeSpaceGeneric
