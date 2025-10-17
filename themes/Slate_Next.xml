@@ -818,10 +818,10 @@
         script_node="#084d4d"
         geometry_node="#429d7a"
         attribute_node="#3f5980"
-        simulation_zone="#6570a71a"
-        repeat_zone="#76512f33"
-        foreach_geometry_element_zone="#33527f33"
-        closure_zone="#7d7d3a33"
+        simulation_zone="#6570a740"
+        repeat_zone="#76512f40"
+        foreach_geometry_element_zone="#33527f40"
+        closure_zone="#7d7d3a40"
         >
         <space>
           <ThemeSpaceGeneric
