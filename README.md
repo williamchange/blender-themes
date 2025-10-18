@@ -4,7 +4,7 @@
 
 ## Blender Extensions
 
-Midnight Blue is released and available on the [Blender Extensions website](https://extensions.blender.org/themes/midnight-blue-theme/) for Blender 4.2/5.0+. Other themes are not on the site yet but it's still possible to install the xml files in preferences.
+[Midnight Blue](https://extensions.blender.org/themes/midnight-blue-theme/) and [Wisteria](https://extensions.blender.org/themes/wisteria/) are currently available at [Blender Extensions](https://extensions.blender.org/author/266/) and can be installed via Blender Preferences.
 
 ## Installation
 
