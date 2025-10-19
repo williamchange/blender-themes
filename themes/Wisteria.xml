@@ -364,9 +364,9 @@
         </wcol_list_item>
         <wcol_state>
           <ThemeWidgetStateColors
-            error="#771111ff"
+            error="#d26e6eff"
             warning="#ac8737ff"
-            info="#28487dff"
+            info="#7795cbff"
             success="#188625ff"
             inner_anim="#53992e"
             inner_anim_sel="#38a600"
