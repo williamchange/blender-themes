@@ -125,8 +125,8 @@
         <wcol_option>
           <ThemeWidgetColors
             outline="#5e606fff"
-            outline_sel="#3d3d3dff"
-            inner="#35373fff"
+            outline_sel="#b6b8d7ff"
+            inner="#2f3138ff"
             inner_sel="#7a7e91ff"
             item="#ffffffff"
             text="#e6e6e6"
