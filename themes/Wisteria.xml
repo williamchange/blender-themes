@@ -268,11 +268,11 @@
         </wcol_menu_back>
         <wcol_pie_menu>
           <ThemeWidgetColors
-            outline="#3d3f48ff"
-            outline_sel="#242424ff"
-            inner="#40424cff"
+            outline="#50515eff"
+            outline_sel="#000000ff"
+            inner="#1f242aff"
             inner_sel="#6f7384ff"
-            item="#3d3f48cc"
+            item="#7f8196ff"
             text="#d9d9d9"
             text_sel="#ffffff"
             show_shaded="FALSE"
