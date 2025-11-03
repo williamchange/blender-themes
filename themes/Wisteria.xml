@@ -793,6 +793,7 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#535562"
+        node_outline="#ffffff26"
         node_selected="#b1c8ff"
         node_active="#ffffff"
         wire="#25272cff"
@@ -816,7 +817,7 @@
         texture_node="#a26545"
         shader_node="#598859"
         script_node="#084d4d"
-        geometry_node="#429d7a"
+        geometry_node="#318376"
         attribute_node="#3f5980"
         simulation_zone="#6570a740"
         repeat_zone="#76512f40"
